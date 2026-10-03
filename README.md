@@ -1,4 +1,3 @@
-<!-- Profile README: create a public repo named exactly "amirhosseinadev" and put this file at its root. -->
 ### Hi, I'm Amirhossein Akbari
 
 Frontend platform & performance engineer in Vienna, Austria. I build design systems, Micro-Frontend platforms, and high-scale web apps in Angular, React, and Next.js.
