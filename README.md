@@ -1,6 +1,6 @@
 ### Hi, I'm Amirhossein Akbari
 
-Frontend platform & performance engineer in Vienna, Austria. I build design systems, Micro-Frontend platforms, and high-scale web apps in Angular, React, and Next.js.
+Senior Software Engineer in Vienna, Austria, focused on frontend architecture. I build design systems, Micro-Frontend platforms, and high-scale web apps in Angular, React, and Next.js.
 
 **Some things I've shipped**
 
